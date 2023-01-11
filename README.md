@@ -48,7 +48,7 @@ print(x)
 
 ## Output:
 ![](./lu%201.png)
-![](./lu%202.png)
+![](./lu%20new.png)
 
 
 ## Result:
